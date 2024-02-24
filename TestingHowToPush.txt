@@ -2,3 +2,6 @@ Some random text.
 Some more random text to check pull function. 
 
 Added some more text to test Git Gui function.
+
+For a tag only
+
